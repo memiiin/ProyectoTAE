@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #33006a
+} 
+
+h1 {
+    margin: 0;
+    padding: 0;
+    text-shadow: -5px -5px 5px #e100ff, 5px -5px 5px #e100ff, -5px 5px 5px #e100ff, 5px 5px 5px #e100ff;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    font-size: 300%;
+    font-family: cursive
+}
+
+.navbar {
+    display: flex;
+    align-items:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(100, 100, 100);
+    justify-content:start
+}
+
+.navbar a {
+    display: block;
+    padding: 10px 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(100, 100, 100);
+    text-decoration: none;
+    font-size: 60px;
+}
+
+.navbar a:hover {
+    background-color: rgb(50, 50, 50);
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 300%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h3 {
+    margin-left: 20px;
+    color: white;
+    font-size: 500%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h4 {
+    margin-left: 20px;
+    color: white;
+    font-size: 500%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h5 {
+    margin-left: 20px;
+    color: white;
+    font-size: 500%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h6 {
+    margin-left: 20px;
+    color: white;
+    font-size: 500%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+footer {
+    background-color: rgb(100, 100, 100);
+    color: white;
+    font-size: 300%;
+    font-family: cursive
+}
+
+p {
+    text-align: justify;
+    color: white;
+    margin-left: 20px;
+    font-size: 225%;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.text5 {
+    background-color:black; width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 350%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
